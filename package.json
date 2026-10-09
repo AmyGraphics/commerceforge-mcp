@@ -1,0 +1,33 @@
+{
+  "name": "commerceforge-mcp",
+  "version": "1.0.0",
+  "description": "CommerceForge - Autonomous E-commerce Engineering, Product Page Conversion, Checkout & Cart Recovery, Traffic Engine & Retention/Repeat-Revenue Systems MCP. Engineers store strategy with margin-first unit economics and 90-day roadmaps, converting product pages (above-the-fold formula, trust stacking, offer engineering), checkout friction surgery with the 3-message cart recovery engine, traffic engines (e-commerce SEO, Shopping feeds, organic UGC systems), and retention systems (6 lifecycle flows, loyalty mechanics, subscribe-and-save math, LTV flip-point analysis).",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ecommerce",
+    "e-commerce",
+    "shopify",
+    "woocommerce",
+    "conversion",
+    "product-page",
+    "checkout",
+    "cart-abandonment",
+    "online-store",
+    "retention",
+    "email-flows",
+    "ltv",
+    "google-shopping",
+    "ugc",
+    "dtc",
+    "cursor",
+    "claude"
+  ],
+  "homepage": "https://mcp-hub.agentweb-hub.workers.dev/mcp/commerceforge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmyGraphics/commerceforge-mcp"
+  },
+  "author": "AmyGraphics",
+  "license": "MIT"
+}
