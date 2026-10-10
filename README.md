@@ -20,11 +20,11 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 
 | Tool | What it does |
 |------|-------------|
-| `autonomous_ecommerce_architect` | Full store strategy in one call: margin-first viability read, store stack that earns its fees (platform, apps vs app-bloat), the per-order unit economics worksheet (landed cost, CAC ceiling, contribution margin), stage diagnosis (no store / no sales / no profit / plateau), and a 90-day roadmap to profitable orders |
-| `engineer_product_pages` | Product pages that convert: the above-the-fold formula (image slots that sell, benefit titles, price anchoring), copy architecture for skimmers and readers, trust stacking in objection order, offer engineering (bundles, quantity breaks, decoy variants, the single post-add upsell), and the 5-job page teardown with leak metrics |
-| `optimize_checkout_cart_recovery` | Recovers the 70% that abandon: checkout friction surgery (field-count law, guest checkout, express wallets), the 3-message abandonment recovery engine with timing and copy, shipping and returns as conversion weapons (threshold math, honest delivery windows), and full-funnel benchmarks that expose the broken step — Shopify / WooCommerce / headless aware |
-| `build_ecom_traffic_engine` | Traffic without burning cash: e-commerce SEO (collections as the ranking unit, product schema, the content layer), Google Shopping feeds and marketplaces as discovery not dependency, organic social and UGC systems (formats that sell without feeling like ads, zero-budget creator seeding), sequenced by catalog size |
-| `grow_retention_repeat_revenue` | Where profit actually lives: the 6 lifecycle flows ranked by revenue per send, loyalty mechanics that change behavior instead of giving away margin, the second-order window, subscribe-and-save math with churn-proofing, and the LTV math showing when a store flips from paying for customers to printing from them |
+| `commerce.architect` | Full store strategy in one call: margin-first viability read, store stack that earns its fees (platform, apps vs app-bloat), the per-order unit economics worksheet (landed cost, CAC ceiling, contribution margin), stage diagnosis (no store / no sales / no profit / plateau), and a 90-day roadmap to profitable orders |
+| `commerce.product_pages` | Product pages that convert: the above-the-fold formula (image slots that sell, benefit titles, price anchoring), copy architecture for skimmers and readers, trust stacking in objection order, offer engineering (bundles, quantity breaks, decoy variants, the single post-add upsell), and the 5-job page teardown with leak metrics |
+| `commerce.checkout_recovery` | Recovers the 70% that abandon: checkout friction surgery (field-count law, guest checkout, express wallets), the 3-message abandonment recovery engine with timing and copy, shipping and returns as conversion weapons (threshold math, honest delivery windows), and full-funnel benchmarks that expose the broken step — Shopify / WooCommerce / headless aware |
+| `commerce.traffic_engine` | Traffic without burning cash: e-commerce SEO (collections as the ranking unit, product schema, the content layer), Google Shopping feeds and marketplaces as discovery not dependency, organic social and UGC systems (formats that sell without feeling like ads, zero-budget creator seeding), sequenced by catalog size |
+| `commerce.retention` | Where profit actually lives: the 6 lifecycle flows ranked by revenue per send, loyalty mechanics that change behavior instead of giving away margin, the second-order window, subscribe-and-save math with churn-proofing, and the LTV math showing when a store flips from paying for customers to printing from them |
 
 ## ⚡ Quick Start (Cursor / Claude Code)
 
@@ -38,7 +38,7 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
-## 🔴 NEW in v1.1 — Live Tool: `audit_product_page_live`
+## 🔴 NEW in v1.1 — Live Tool: `commerce.audit_page_live`
 
 Fetches any live product page and audits real JSON-LD/schema structured data, conversion elements, trust signals, and returns prioritized CRO fixes.
 
