@@ -38,6 +38,12 @@ Streamable HTTP MCP — works with Cursor, Claude Code, Claude Desktop, Windsurf
 }
 ```
 
+## 🔴 NEW in v1.1 — Live Tool: `audit_product_page_live`
+
+Fetches any live product page and audits real JSON-LD/schema structured data, conversion elements, trust signals, and returns prioritized CRO fixes.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
